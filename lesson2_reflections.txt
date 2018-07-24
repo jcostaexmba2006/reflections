@@ -27,7 +27,7 @@ with diagrams i  can see all the branches and the commits in a high level
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-
+The result is that all the commmits are in the master branch and the other branch label is deleted. all the commits are ordering by dattime
 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
