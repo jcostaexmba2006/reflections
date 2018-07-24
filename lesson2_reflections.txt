@@ -22,8 +22,13 @@ maybe when you are testing some new funcionality and you are not sure if it will
 
 How do the diagrams help you visualize the branch structure?
 
+with diagrams i  can see all the branches and the commits in a high level
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+
+
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
