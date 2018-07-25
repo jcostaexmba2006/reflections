@@ -32,3 +32,5 @@ The result is that all the commmits are in the master branch and the other branc
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+you have to control very well the changes made for other people
